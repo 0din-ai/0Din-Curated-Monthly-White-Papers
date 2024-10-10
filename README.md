@@ -31,8 +31,9 @@ This repository is a curated collection of monthly white papers that focus on th
 **Title:** Understanding the Evolution of Zero-Day Exploits  
 **Summary:** This white paper explores the latest trends in zero-day vulnerabilities, detailing the techniques used by attackers to exploit these weaknesses and the defensive strategies organizations can adopt to mitigate risks.
 
-- [Full White Paper](https://example.com/full-white-paper)
-- [NotebookLM Audio Summary](https://example.com/audio-summary)
+- [Full White Paper](https://github.com/0din-ai/0Din-Curated-Monthly-White-Papers/blob/main/September%202024%20Papers%20with%20NotebookLM%20Summaries/Papers%20And%20Summaries/White%20Paper%20-%20PROMPTFUZZ-%20Harnessing%20Fuzzing%20Techniques%20for%20Robust%20Testing%20of%20Prompt%20Injection%20in%20LLMs.pdf)
+- [Summary](https://github.com/0din-ai/0Din-Curated-Monthly-White-Papers/blob/main/September%202024%20Papers%20with%20NotebookLM%20Summaries/Papers%20And%20Summaries/Summary%20-%20PROMPTFUZZ-%20Harnessing%20Fuzzing%20Techniques%20for%20Robust%20Testing%20of%20Prompt%20Injection%20in%20LLMs.pdf.md)
+- [NotebookLM Audio Summary](https://github.com/0din-ai/0Din-Curated-Monthly-White-Papers/blob/main/September%202024%20Papers%20with%20NotebookLM%20Summaries/September%202024%20White%20Papers%20NotebooksLM%20Summary.md)
 
 ## 📥 Contributions
 
